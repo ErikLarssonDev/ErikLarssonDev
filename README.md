@@ -49,9 +49,7 @@ Some relevant University courses:
 <a href="https://www.python.org"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
 <a href="https://pytorch.org/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/></a>
 <a href="https://jupyter.org/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/></a>
-<a href="https://www.tensorflow.org">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style='padding-right:10px;'/>
-  </a>
+<a href="https://www.tensorflow.org" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style='padding-right:10px;'/</a>
 <a href="https://www.r-project.org"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
 <a href="https://posit.co/products/open-source/rstudio/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /></a>
 <a href="https://matlab.mathworks.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/></a>       
@@ -60,9 +58,7 @@ Some relevant University courses:
 <a><img width=40px style='padding-right:10px;' src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" /></a>
 <a><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
 <a><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-  <a href="https://mui.com/" rel="noreferrer">
-    <img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40" style='padding-right:10px;'/>
-  </a>
+<a href="https://mui.com/" rel="noreferrer"><img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40" style='padding-right:10px;'/></a>
 <a href="https://getbootstrap.com" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style='padding-right:10px;'/></a>
 
 <a href="https://reactjs.org"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
