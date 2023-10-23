@@ -13,27 +13,27 @@ Here are some ideas to get you started:
 
 <h1 align='center'>👋 Hey there, I'm Erik Larsson!</h1>
 
-<p align='center'>Currently, I'm in my fifth and final year at Linköping University, where I'm passionately pursuing a degree in Computer Science with a specialized focus on Machine Learning and Statistics. 📚</p>
+<p>Currently, I'm in my fifth and final year at Linköping University, where I'm passionately pursuing a degree in Computer Science with a specialized focus on Machine Learning and Statistics. 📚</p>
 
-<p align='center'>🤖 I'm deeply intrigued by the world of machine learning and statistics, and you'll find my journey reflected in the code and projects on this profile. From personal side projects to select academic endeavors, I'm always striving to push the boundaries of what's possible with data and algorithms. Please note that some of my academic code, hosted privately or on GitLab, is not publicly available here to avoid inconveniencing examiners. If you would like to see the code produced during a specific course, please let me know. </p>
+<p>🤖 I'm deeply intrigued by the world of machine learning and statistics, and you'll find my journey reflected in the code and projects on this profile. From personal side projects to select academic endeavors, I'm always striving to push the boundaries of what's possible with data and algorithms. Please note that some of my academic code, hosted privately or on GitLab, is not publicly available here to avoid inconveniencing examiners. If you would like to see the code produced during a specific course, please let me know. </p>
 
 Some relevant University courses:
 <ul>
-  <item>Object Oriented Programming in Java - TDDE10</item>
-  <item>Data Structures and Algorithms - TDDE22</item>
-  <item>Database Technology - TDDD81</item>
-  <item>Computer Engineering, Bachelor Project - TDDD83</item>
-  <item>Software Engineering - TDDC88</item>
-  <item>Machine Learning - TDDE01</item>
-  <item>Neural Networks and Learning Systems - TBMI26</item>
-  <item>Data Mining - Clustering and Association Analysis - TDDD41</item>
-  <item>Bayesian Learning - TDDE07</item>
-  <item>Advanced Machine Learning - TDDE15</item>
-  <item>Machine Learning for Computer Vision - TSBB19</item>
-  <item>Advanced Project Course - AI and Machine Learning - TDDE19</item>
+  <li>Object Oriented Programming in Java - TDDE10</item>
+  <li>Data Structures and Algorithms - TDDE22</item>
+  <li>Database Technology - TDDD81</item>
+  <li>Computer Engineering, Bachelor Project - TDDD83</item>
+  <li>Software Engineering - TDDC88</item>
+  <li>Machine Learning - TDDE01</item>
+  <li>Neural Networks and Learning Systems - TBMI26</item>
+  <li>Data Mining - Clustering and Association Analysis - TDDD41</item>
+  <li>Bayesian Learning - TDDE07</item>
+  <li>Advanced Machine Learning - TDDE15</item>
+  <li>Machine Learning for Computer Vision - TSBB19</item>
+  <li>Advanced Project Course - AI and Machine Learning - TDDE19</item>
 </ul>
 
-<p align='center'>📊 I'm inquisitive by nature and always eager to learn. If you share the same passion for technology, let's connect! Whether you want to discuss software, share insights, or just chat about exciting projects, I'd love to hear from you. Find me on LinkedIn for a more in-depth look at my academic and professional journey.</p>
+<p>📊 I'm inquisitive by nature and always eager to learn. If you share the same passion for technology, let's connect! Whether you want to discuss software, share insights, or just chat about exciting projects, I'd love to hear from you. Find me on LinkedIn for a more in-depth look at my academic and professional journey.</p>
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/erik-larsson-b19b42183/" target="_blank">
