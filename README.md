@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align='center'>👋 Hey there, I'm Erik Larsson!/h1>
+<h1 align='center'>👋 Hey there, I'm Erik Larsson!</h1>
 
 <p align='center'>Currently, I'm in my fifth and final year at Linköping University, where I'm passionately pursuing a degree in Computer Science with a specialized focus on Machine Learning and Statistics. 📚</p>
 
