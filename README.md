@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p>Currently, I'm in my fifth and final year at Linköping University, where I'm passionately pursuing a degree in Computer Science with a specialized focus on Machine Learning and Statistics. 📚</p>
 
-<p>🤖 I'm deeply intrigued by the world of machine learning and statistics, and you'll find my journey reflected in the code and projects on this profile. From personal side projects to select academic endeavors, I'm always striving to push the boundaries of what's possible with data and algorithms. Please note that some of my academic code, hosted privately or on GitLab, is not publicly available here to avoid inconveniencing examiners. If you would like to see the code produced during a specific course, please let me know. </p>
+<p>🤖 I'm deeply intrigued by the world of machine learning and statistics, and you'll find my journey reflected in the code and projects on this profile. From personal side projects to select academic endeavors, I'm always striving to push the boundaries of what's possible with data and algorithms. Please note that some of my academic code, hosted privately or on GitLab, is not publicly available here to avoid inconveniencing examiners and forcing them to redo the lab assignments. If you would like to see the code produced during a specific course, please let me know. </p>
 
 Some relevant University courses:
 <ul>
