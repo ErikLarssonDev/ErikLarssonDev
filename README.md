@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <h1 align='center'>👋 Hey there, I'm Erik Larsson!</h1>
 
-<p>My research at the Division of Statistics and Machine Learning (STIMA) focuses on methods to integrate predictive spatio-temporal models using deep learning with probabilistic models, enhancing our ability to represent and reason about uncertainties in both models and predictions. One of the primary applications of this research will be in collaboration with SMHI, where we'll work towards developing AI-driven weather forecasting systems.</p>
+<p>My research at the Division of Statistics and Machine Learning (STIMA) at Linköping University focuses on methods to integrate predictive spatio-temporal models using deep learning with probabilistic models, enhancing our ability to represent and reason about uncertainties in both models and predictions. One of the primary applications of this research will be in collaboration with SMHI, where we'll work towards developing AI-driven weather forecasting systems.</p>
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/erik-larsson-b19b42183/" target="_blank">
